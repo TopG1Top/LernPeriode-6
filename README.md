@@ -8,7 +8,7 @@ in diesem Jahr eine 5.5
 Was wäre ein geeignetes Projekt für diese LP5? Ich möchte aufjedenfall an den Modulen arbeiten. und etwas schönes programmieren
 
 16.08
-1.
-2.
-3.
-4.
+Heute mache ich MoodleTest
+Studiere die präsentationen damit ich es verstehe. Modul 320
+Klasse, Objekte, etc
+schaue Youtube video und löse aufträge.
