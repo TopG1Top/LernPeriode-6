@@ -19,3 +19,11 @@ h MoodleTest Modul 231
 Studiere die präsentationen damit ich es verstehe. Modul 320 aufträge lösen und richtig verstehen
 Klasse, Objekte, etc
 schaue Youtube video und löse aufträge.
+
+
+
+
+## 06.09.2024
+h MoodleTest Modul 231
+Aufträge lösen
+schaue Youtube video über vererbung etc und löse aufträge.
