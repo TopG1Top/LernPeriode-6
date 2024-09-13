@@ -21,9 +21,21 @@ Klasse, Objekte, etc
 schaue Youtube video und löse aufträge.
 
 
-
-
 ## 06.09.2024
 h MoodleTest Modul 231
-Aufträge lösen
-schaue Youtube video über vererbung etc und löse aufträge.
+Studiere die präsentationen damit ich es verstehe. Modul 320 aufträge lösen und richtig verstehen
+Vererbung, etc
+schaue Youtube video um das zu verstehen und löse aufträge.
+
+
+## 13.09.2024
+h MoodleTest Modul 231
+Studiere die präsentationen damit ich es verstehe. Modul 320 aufträge lösen und richtig verstehen
+Vererbung, etc
+schaue Youtube video zum verstehen und löse aufträge.
+
+
+
+
+
+
