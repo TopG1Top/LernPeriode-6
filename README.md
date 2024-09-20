@@ -35,6 +35,40 @@ Vererbung, etc
 schaue Youtube video zum verstehen und löse aufträge.
 
 
+## 20.09.2024
+h MoodleTest Modul 231
+Studiere die präsentationen damit ich es verstehe. Modul 320 aufträge lösen und richtig verstehen
+Vererbung, etc
+schaue Youtube video zum verstehen und löse aufträge.
+
+Was habe ich mitgenommen?
+Am 13.09.2024 habe ich intensiv an verschiedenen Modulen gearbeitet, insbesondere an Modul 231 und Modul 320. Bei Modul 320 habe ich die bereitgestellten Präsentationen durchgearbeitet, um die theoretischen Inhalte besser zu verstehen.
+
+Probleme und Herausforderungen
+Die größte Herausforderung war das tiefere Verständnis der Vererbung und der genauen Funktionsweise, insbesondere, wie Klassen miteinander interagieren und welche Rolle Konstruktoren und Methodenüberladungen dabei spielen. 
+
+
+Brauche ich Unterstützung?
+nein
+
+
+Persönlicher Bezug (kritisch und differenziert)
+Ich bin mit meinem Arbeitsfortschritt insgesamt zufrieden
+
+
+
+
+
+## 27.09.2024
+h MoodleTest Modul 231
+Studiere die präsentationen damit ich es verstehe. Modul 320 aufträge lösen und richtig verstehen
+Vererbung, etc
+schaue Youtube video zum verstehen und löse aufträge.
+
+
+
+
+
 
 
 
